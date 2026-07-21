@@ -260,7 +260,7 @@ function PortfolioPage() {
           <ButtonLink href="#contact" className="mobile-booking">Send a Message</ButtonLink>
         </nav>
 
-        <ButtonLink href="#contact" className="desktop-booking">Send a Message</ButtonLink>
+       
         <button
           className="menu-toggle"
           type="button"
