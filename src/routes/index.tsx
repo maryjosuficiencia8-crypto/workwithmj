@@ -101,7 +101,7 @@ const portfolioItems = [
   {
     title: '3D Pixar-Style Fragrance Ad',
     category: 'Pixar 3D',
-    description: 'A charming, character-led fragrance concept with warm lighting and playful motion.',
+    description: 'Created a concept 3D Pixar-style commercial featuring a luxury fragrance to showcase stylized character animation, cinematic storytelling, and AI-powered video production. Managed the project from concept to completion, including creative direction, character design, storyboard development, AI image generation, image-to-video animation, scene composition, and final video editing. The commercial combines expressive 3D visuals with product-focused storytelling to produce engaging, social media-ready content. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Le Labo or the Santal 33 brand.',
     palette: 'blue',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638264/spray_owtq2t.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784638935/3D_PIXAR_1_oobrta.mov',
@@ -109,7 +109,7 @@ const portfolioItems = [
   {
     title: 'Concept Beauty Brand Advertisement',
     category: 'UGC',
-    description: 'A natural, creator-led beauty concept built for scroll-stopping social feeds.',
+    description: 'Developed a concept AI skincare commercial featuring Rhode Glazing Milk to demonstrate high-end visual storytelling and AI-powered content production. Managed the project end-to-end, including creative direction, storyboard development, AI image generation, image-to-video animation, video editing, color refinement, and final delivery. Produced a polished, social media-ready commercial designed to highlight the product\'s premium branding while showcasing expertise in AI-driven creative workflows for beauty and e-commerce marketing. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Rhode.',
     palette: 'rose',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638103/Woman_patting_face_dry_2K_202607031612_f19fhx.jpg',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784637879/UGC_1_oeqomn.mov',
@@ -117,7 +117,7 @@ const portfolioItems = [
   {
     title: 'Concept Luxury Fragrance Advertisement',
     category: 'UGC',
-    description: 'An elevated, editorial-style fragrance spot with a premium, confident feel.',
+    description: 'Practice project created to demonstrate AI video production, cinematic storytelling, and luxury product advertising techniques. Dior Sauvage is used solely as the featured product for portfolio purposes and this project is not affiliated with or endorsed by the brand.',
     palette: 'amber',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638145/MAN_5_drzdvy.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784638488/UGC_3_m60zrb.mov',
@@ -125,7 +125,7 @@ const portfolioItems = [
   {
     title: 'AI Grooming Product Ad',
     category: 'UGC',
-    description: 'A clean, confident grooming concept designed to feel authentic and relatable.',
+    description: 'Developed a concept AI commercial featuring Gillette Shaving Foam to showcase premium product advertising and AI-powered video production. Led the project from concept to completion, including creative direction, storyboard development, AI image generation, image-to-video animation, video editing, visual refinement, and final delivery. The commercial was designed to emphasize the product\'s performance and premium presentation while demonstrating expertise in cinematic storytelling, AI-generated visuals, and short-form marketing content for consumer brands. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Gillette.',
     palette: 'violet',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638158/IMAGE_7_cvvid4.jpg',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784638691/UGC_2-2_vmaxpo.mov',
@@ -133,7 +133,7 @@ const portfolioItems = [
   {
     title: 'AI Health Supplement Ad',
     category: 'UGC',
-    description: 'A bright, energetic wellness concept built to highlight everyday benefits.',
+    description: 'Developed a concept AI advertisement for a collagen gummy supplement to demonstrate AI-powered advertising, product-focused storytelling, and short-form marketing content. Managed the project from concept to completion, including creative direction, storyboard development, AI image generation, image-to-video animation, video editing, and final visual refinement. The advertisement was designed to capture attention, communicate key product benefits, and deliver a polished, conversion-focused creative suitable for social media and e-commerce campaigns. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Watsons.',
     palette: 'green',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638178/girl_6_fmitta.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784638511/ugc_4_g1inrw.mov',
@@ -141,7 +141,7 @@ const portfolioItems = [
   {
     title: '3D Pixar-Style Skincare Advertisement',
     category: 'Pixar 3D',
-    description: 'A soft, expressive skincare story told through stylized 3D character work.',
+    description: 'Developed a concept 3D Pixar-style advertisement for a skincare product to showcase stylized character animation, cinematic storytelling, and AI-powered commercial production. Managed the project from concept to completion, including creative direction, storyboard development, 3D character and environment design, AI image generation, image-to-video animation, video editing, lighting, color grading, and final refinement. The advertisement was designed to highlight the product\'s skincare benefits through expressive animation, engaging visuals, and a polished, premium aesthetic optimized for social media and e-commerce campaigns. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by The Ordinary.',
     palette: 'blue',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638196/3d_9_pftpls.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784642666/3D_PIXAR_4_gcasq2.mp4',
@@ -149,7 +149,7 @@ const portfolioItems = [
   {
     title: 'Claymation Protein Supplement Advertisement',
     category: 'Claymation',
-    description: 'A tactile, handcrafted clay-style world built around everyday routine and care.',
+    description: 'Developed a concept claymation advertisement for a protein supplement to showcase handcrafted stop-motion-inspired visuals, creative storytelling, and AI-powered commercial production. Managed the project end-to-end, including creative direction, storyboard development, clay-style character and environment design, AI image generation, image-to-video animation, video editing, lighting, color grading, and final refinement. The advertisement was designed to highlight the product\'s performance and nutritional appeal through playful claymation visuals while maintaining a polished, premium aesthetic optimized for social media and e-commerce campaigns. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Optimum Nutrition.',
     palette: 'clay',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638226/Man_rubbing_neck_claymation_2K_202607102303_qof0eq.jpg',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784640114/CLAYMATION_1_lyjtjj.mp4',
@@ -157,7 +157,7 @@ const portfolioItems = [
   {
     title: '3D Pixar-Style Supplement Advertisement',
     category: 'Pixar 3D',
-    description: 'A friendly, character-driven supplement concept with warmth and personality.',
+    description: 'Created a concept 3D Pixar-style commercial for a dietary supplement to showcase stylized animation, cinematic storytelling, and AI-powered video production. Managed the project from concept to completion, including creative direction, character design, storyboard development, AI image generation, image-to-video animation, scene composition, lighting, and final video editing. Designed to engage audiences through expressive 3D visuals and product-focused storytelling, the commercial demonstrates the ability to produce high-quality, social media-ready advertising content. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Nature Made.',
     palette: 'amber',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638259/taking_supplement_gy0ysu.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784639750/3D_PIXAR_3_gakmpf.mp4',
@@ -165,7 +165,7 @@ const portfolioItems = [
   {
     title: 'AI Dermatological Skincare Ad',
     category: 'Pixar 3D',
-    description: 'A clinical-meets-cinematic skincare concept balancing trust and visual polish.',
+    description: 'Developed a concept 3D Pixar-style advertisement for a therapeutic skincare product to showcase stylized character animation, cinematic storytelling, and high-quality AI-powered commercial production. Managed the project end-to-end, including creative direction, storyboard development, 3D character and environment design, AI image generation, image-to-video animation, video editing, lighting, color grading, and final refinement. The advertisement was crafted to communicate the product\'s benefits through expressive animation, visually engaging scenes, and a polished, family-friendly aesthetic optimized for social media and e-commerce campaigns. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Grahams Natural.',
     palette: 'rose',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638292/Image_9_2.07.51_PM_kjw8ca.jpg',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784639679/3D_PIXAR_2_vweymg.mp4',
@@ -173,7 +173,7 @@ const portfolioItems = [
   {
     title: 'Claymation Mobile App Advertisement',
     category: 'Claymation',
-    description: 'A playful, handcrafted claymation spot introducing an app with charm and character.',
+    description: 'Developed a concept claymation advertisement for a food delivery application to showcase handcrafted stop-motion-inspired visuals, creative storytelling, and AI-powered commercial production. Managed the project from concept to completion, including creative direction, storyboard development, clay-style character and environment design, AI image generation, image-to-video animation, video editing, lighting, color grading, and final refinement. The advertisement was designed to highlight the convenience and user experience of food delivery through engaging claymation visuals and a polished, social media-ready aesthetic. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Foodpanda.',
     palette: 'violet',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638328/foodpanda_pink_app_kqiwvt.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784642666/3D_PIXAR_4_gcasq2.mp4',
@@ -181,13 +181,12 @@ const portfolioItems = [
   {
     title: 'AI Long-Form Sales Video',
     category: 'VSL',
-    description: 'A confident, avatar-led sales story built around clarity, trust, and conversion.',
+    description: 'Developed a concept AI-powered video sales letter to showcase avatar-led presentation, persuasive scripting, and long-form conversion-focused video production. Managed the project from concept to completion, including creative direction, script structuring, AI avatar generation, scene pacing, video editing, and final refinement. The video was designed to guide viewers through a clear persuasive arc while demonstrating expertise in AI-driven sales video production for marketing and e-commerce campaigns. This is a self-initiated portfolio project created for demonstration purposes.',
     palette: 'green',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784642925/avatar_1_o1qfby.png',
     video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784640607/VSL_1_c9qdz5.mp4',
   },
 ]
-
 const processSteps = [
   ['Research', "Understand the client's goals, audience, offer, and creative direction."],
   ['Creative Strategy', 'Develop concepts, storyboards, prompts, and a clear visual plan.'],
