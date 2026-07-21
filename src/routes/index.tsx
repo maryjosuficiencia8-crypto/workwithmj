@@ -268,7 +268,7 @@ function PortfolioPage() {
     formData.forEach((value, key) => encodedData.append(key, String(value)))
 
     try {
-      const response = await fetch('/__forms.html', {
+      const response = await fetch('/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: encodedData.toString(),
@@ -306,7 +306,7 @@ function PortfolioPage() {
           <ButtonLink href="#contact" className="mobile-booking">Send a Message</ButtonLink>
         </nav>
 
-        <ButtonLink href="#contact" className="desktop-booking">Send a Message</ButtonLink>
+        
         <button
           className="menu-toggle"
           type="button"
