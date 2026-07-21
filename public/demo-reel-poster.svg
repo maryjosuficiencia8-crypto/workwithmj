@@ -1,0 +1,17 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#100F0D"/>
+  <circle cx="1120" cy="210" r="520" fill="url(#a)" fill-opacity=".62"/>
+  <circle cx="455" cy="720" r="490" fill="url(#b)" fill-opacity=".5"/>
+  <path d="M-60 790C258 604 335 348 690 412C1062 478 1220 232 1694 55" stroke="url(#c)" stroke-width="2" opacity=".56"/>
+  <path d="M-50 850C279 664 363 426 700 472C1060 521 1253 300 1675 120" stroke="#C9A227" stroke-opacity=".12"/>
+  <ellipse cx="814" cy="458" rx="222" ry="221" fill="#C9A227" fill-opacity=".05" stroke="#C9A227" stroke-opacity=".3"/>
+  <ellipse cx="814" cy="458" rx="139" ry="138" fill="url(#d)"/>
+  <path d="M762 347C823 317 922 363 938 435C956 517 884 592 800 575C724 559 676 470 713 402C726 379 742 359 762 347Z" fill="url(#e)" fill-opacity=".85"/>
+  <defs>
+    <radialGradient id="a"><stop stop-color="#C9A227"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b"><stop stop-color="#8B7355"/><stop offset="1" stop-color="#8B7355" stop-opacity="0"/></radialGradient>
+    <linearGradient id="c" x1="27" y1="764" x2="1573" y2="140"><stop stop-color="#8B7355" stop-opacity="0"/><stop offset=".52" stop-color="#C9A227"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></linearGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="translate(783 411) rotate(53) scale(203)"><stop stop-color="#F0D57E"/><stop offset=".5" stop-color="#9F7D24"/><stop offset="1" stop-color="#2F2512"/></radialGradient>
+    <linearGradient id="e" x1="717" y1="353" x2="891" y2="578"><stop stop-color="white" stop-opacity=".35"/><stop offset="1" stop-color="#231B0B" stop-opacity=".15"/></linearGradient>
+  </defs>
+</svg>
