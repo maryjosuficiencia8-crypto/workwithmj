@@ -104,7 +104,7 @@ const portfolioItems = [
     description: 'Created a concept 3D Pixar-style commercial featuring a luxury fragrance to showcase stylized character animation, cinematic storytelling, and AI-powered video production. Managed the project from concept to completion, including creative direction, character design, storyboard development, AI image generation, image-to-video animation, scene composition, and final video editing. The commercial combines expressive 3D visuals with product-focused storytelling to produce engaging, social media-ready content. This is a self-initiated portfolio project created for demonstration purposes and is not affiliated with or endorsed by Le Labo or the Santal 33 brand.',
     palette: 'blue',
     thumbnail: 'https://res.cloudinary.com/kgn2o4sj/image/upload/v1784638264/spray_owtq2t.png',
-    video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784638935/3D_PIXAR_1_oobrta.mov',
+    video: 'https://res.cloudinary.com/kgn2o4sj/video/upload/v1784647144/3D_PIXAR_1_oobrta.mov',
   },
   {
     title: 'Concept Beauty Brand Advertisement',
